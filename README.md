@@ -1,4 +1,5 @@
 📈 Ihale Uygunluk Takip Sistemi
+
 🌟 Proje Hakkında
 Ihale Uygunluk Takip Sistemi, şirketlerin SGK ve vergi borçlarını takip ederek ihale uygunluğunu analiz etmesine yardımcı olan bir web tabanlı takip sistemidir. Sistem, borçları görselleştirerek zamanında ödeme yapılmazsa ihale başvurularının risk altına girdiğini bildirir.
 
@@ -7,9 +8,11 @@ Ihale Uygunluk Takip Sistemi, şirketlerin SGK ve vergi borçlarını takip eder
 - Uyarı Sistemi: Ödeme tarihleri yaklaşan veya geçen borçlar için renk kodlu uyarılar.
 - Grafiksel Analiz: Borçların zaman içindeki değişimini gösteren interaktif grafikler.
 - Raporlama: Borç durumlarını içeren CSV veya PDF raporları oluşturma.
+- Modern Arayüz: Bootstrap ile geliştirilmiş, kullanıcı dostu ve mobil uyumlu tasarım.
 
 🌍 Kullanım
 Proje başlangıç olarak manuel bir kullanım sunmaktadır.
+
 1. Borç ekleyin: SGK ve vergi borçlarını manuel olarak girin.
 2. Görselleştirin: Borçların zaman içindeki değişimini interaktif grafiklerle inceleyin.
 3. Uyarıları takip edin: Ödeme tarihleri yaklaşan veya geçen borçları kontrol edin.
@@ -19,13 +22,14 @@ Proje başlangıç olarak manuel bir kullanım sunmaktadır.
 - Flask - Web framework
 - Pandas - Veri işleme
 - Plotly & D3.js - Veri görselleştirme
+- Bootstrap - Modern ve mobil uyumlu arayüz
 - HTML/CSS/JS - Web arayüzü
 
 📆 Gelecek Güncellemeler
 - ✅ PDF ve Excel raporları oluşturma
 - ✅ E-posta ile borç uyarıları gönderme
 - ✅ Kullanıcı yetkilendirme sistemi ekleme
-
----
-🌟 Proje sahibi Dilara BIYIKLI(https://github.com/dilara121)
+- ✅ API entegrasyonu ile otomatik veri güncelleme
+- ✅ Borç durumlarını görselleştirmek için gelişmiş grafik desteği
+- ✅ Bootstrap tabanlı kullanıcı arayüzü geliştirme
 
